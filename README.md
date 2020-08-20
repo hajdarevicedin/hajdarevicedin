@@ -6,17 +6,17 @@
 
 - Site where you can build any application.
 
-### 💵 moneyflo.net
+### 💵 [moneyflo.net](https://moneyflo.net)
 
 - Site where you can make passive income easier than ever. **#GAMECHANGER**
 
-### 📜 potpisi.rs
+### 📜 [potpisi.rs](https://potpisi.rs)
 
 - Site for political parties in serbia, to speed up the process of collecting signatures for cadidature.
 
 ## 📫 HOW TO REACH ME?
 
-- 📧 edin@wotnow.net
+- 📧 [edin@wotnow.net](mailto:edin@wotnow.net)
 
 <!--
 **hajdarevicedin/hajdarevicedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
