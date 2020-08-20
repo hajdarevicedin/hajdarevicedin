@@ -1,4 +1,22 @@
-### Hi there 👋
+# HAJDAREVIĆ EDIN
+
+## WHAT'S COOKING?
+
+### ❓ wotnow.net
+
+- Site where you can build any application.
+
+### 💵 moneyflo.net
+
+- Site where you can make passive income easier than ever. **#GAMECHANGER**
+
+### 📜 potpisi.rs
+
+- Site for political parties in serbia, to speed up the process of collecting signatures for cadidature.
+
+## 📫 HOW TO REACH ME?
+
+- 📧 edin@wotnow.net
 
 <!--
 **hajdarevicedin/hajdarevicedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
