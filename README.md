@@ -2,7 +2,7 @@
 
 ## WHAT'S COOKING?
 
-### ❓ [a https://wotnow.net]wotnow.net
+### ❓ [wotnow.net](https://wotnow.net)
 
 - Site where you can build any application.
 
