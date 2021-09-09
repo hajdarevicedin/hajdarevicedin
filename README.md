@@ -2,21 +2,13 @@
 
 ## WHAT'S COOKING?
 
-### ❓ [wotnow.net](https://wotnow.net)
-
-- Site where you can build any application.
-
 ### 💵 [moneyflo.net](https://moneyflo.net)
 
-- Site where you can make passive income easier than ever. **#GAMECHANGER**
-
-### 📜 [potpisi.rs](https://potpisi.rs)
-
-- Site for political parties in serbia, to speed up the process of collecting signatures for cadidature.
+- Leverage knowledge and experience from successful traders and generate yourself a passive income. **#GAMECHANGER**
 
 ## 📫 HOW TO REACH ME?
 
-- 📧 [edin@wotnow.net](mailto:edin@wotnow.net)
+- 📧 [edin@moneyflo.net](mailto:edin@moneyflo.net)
 
 <!--
 **hajdarevicedin/hajdarevicedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
