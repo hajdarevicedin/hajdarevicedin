@@ -1,14 +1,14 @@
 # HAJDAREVIĆ EDIN
 
-## WHAT'S COOKING?
+## WHAT'S GOING ON?
 
-### 💵 [moneyflo.net](https://moneyflo.net)
+### I will make this professional
 
-- Leverage knowledge and experience from successful traders and generate yourself a passive income. **#GAMECHANGER**
+- but not yet, no time now. soon promise...
 
 ## 📫 HOW TO REACH ME?
 
-- 📧 [edin@moneyflo.net](mailto:edin@moneyflo.net)
+- 📧 [edin@objavi.rs](mailto:edin@objavi.rs)
 
 <!--
 **hajdarevicedin/hajdarevicedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
